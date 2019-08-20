@@ -1,0 +1,23 @@
+{
+  "name": "blog-app",
+  "version": "1.0.0",
+  "description": "simple CRUD app  using Node.js, MongoDB, Express, Ejs, Material UI for RESTful route exercise :)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emilda Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emildazhg/Blog-App/issues"
+  },
+  "homepage": "https://github.com/emildazhg/Blog-App#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "express-sanitizer": "^1.0.5",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.6.9"
+  }
+}
