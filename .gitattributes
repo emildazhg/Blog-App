@@ -1,1 +1,7 @@
-.js linguist-vendored=false
+    
+* linguist-vendored
+<<<<<<< HEAD
+*.js linguist-vendored=false
+=======
+*.js linguist-vendored=false
+>>>>>>> 75c397bd20898a0fa7df63c6626ca913a9f1a4a6
